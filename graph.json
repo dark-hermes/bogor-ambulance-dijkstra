@@ -1,0 +1,44 @@
+{
+    "RS Vania": {
+        "RS Melania": 3.9,
+        "Mayapada Hospital Bogor": 3.5
+    },
+    "RS Melania": {
+        "RS Vania": 3.9,
+        "Mayapada Hospital Bogor": 4.7,
+        "RS Ummi": 0.9
+    },
+    "Mayapada Hospital Bogor": {
+        "RS Vania": 3.5,
+        "RS Melania": 4.7,
+        "RS Ummi": 3,
+        "RS PMI Bogor": 4.3
+    },
+    "RS Ummi": {
+        "RS Melania": 0.9,
+        "Mayapada Hospital Bogor": 3,
+        "RS PMI Bogor": 3.8,
+        "RS Ummi": 2.4
+    },
+    "RS PMI Bogor": {
+        "Mayapada Hospital Bogor": 4.3,
+        "RS Ummi": 3.8,
+        "RS Azra Bogor": 5.1,
+        "RS Salak": 3,
+        "Siloam Hospitals Bogor": 1.2
+    },
+    "RS Azra Bogor": {
+        "RS PMI Bogor": 5.1,
+        "RS Salak": 3.1,
+        "Siloam Hospitals Bogor": 1.9
+    },
+    "RS Salak": {
+        "RS Azra Bogor": 3.1,
+        "RS PMI Bogor": 3,
+        "RS Ummi": 2.4
+    },
+    "Siloam Hospitals Bogor": {
+        "RS PMI Bogor": 1.2,
+        "RS Azra Bogor": 1.9
+    }
+}
